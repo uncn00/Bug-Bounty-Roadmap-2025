@@ -1,3 +1,0 @@
-# 🧠 Phase 0: Getting Started – The Hacker Mindset
-
-Before jumping into tools and techniques, it’s important to understand...
