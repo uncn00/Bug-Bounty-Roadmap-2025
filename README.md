@@ -91,7 +91,8 @@ Start submitting reports on:
 - *Web Application Hacker’s Handbook*  
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)  
 - [NahamSec on Twitch/YouTube](https://www.youtube.com/c/NahamSec)  
-- [STÖK’s YouTube Channel](https://www.youtube.com/@stokfredrik)  
+- [STÖK’s YouTube Channel](https://www.youtube.com/@stokfredrik)
+- [LostSec on Youtube](https://www.youtube.com/@lostsecc)  
 - [HackTricks Book](https://book.hacktricks.xyz/)  
 
 ---
