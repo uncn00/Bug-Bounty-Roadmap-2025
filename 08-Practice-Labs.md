@@ -5,6 +5,7 @@
 - [PortSwigger Labs](https://portswigger.net/web-security)
 - [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
+- [BugBountyHunter](https://www.bugbountyhunter.com/)  
 - [PentesterLab](https://pentesterlab.com/)
 - [Root-Me](https://www.root-me.org/)
 - [Web Security Academy](https://portswigger.net/web-security)
