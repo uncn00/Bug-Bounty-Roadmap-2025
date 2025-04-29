@@ -21,7 +21,7 @@ This repository covers:
 
 ## 🧭 Roadmap Overview
 
-### ✅ Phase 1: The Hacker Mindset
+### 🧠 Phase 1: The Hacker Mindset
 - Understand what bug bounty is and how it works  
 - Learn about legal and ethical hacking  
 - Follow security researchers and stay up-to-date  
@@ -67,7 +67,7 @@ Start submitting reports on:
 - [YesWeHack](https://www.yeswehack.com)  
 - [Synack Red Team](https://www.synack.com/red-team/)
 
-### 🧠 Bonus Phase: Going Pro
+### 💎 Bonus Phase: Going Pro
 - Study SSRF, SSTI, RCE, WebSockets, GraphQL  
 - Explore mobile and thick client testing  
 - Automate recon and scans with Bash/Python  
