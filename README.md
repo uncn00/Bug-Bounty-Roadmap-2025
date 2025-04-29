@@ -21,25 +21,25 @@ This repository covers:
 
 ## 🧭 Roadmap Overview
 
-### ✅ Phase 0: The Hacker Mindset
+### ✅ Phase 1: The Hacker Mindset
 - Understand what bug bounty is and how it works  
 - Learn about legal and ethical hacking  
 - Follow security researchers and stay up-to-date  
 
-### 🔧 Phase 1: Technical Basics
+### 🔧 Phase 2: Technical Basics
 - Learn how the internet works (HTTP, DNS, Web)  
 - Study HTML, JavaScript basics, and browser behavior  
 - Get familiar with Linux & the command line  
 - Install essential tools (Burp Suite, Nmap, FFUF, etc.)
 
-### 🔍 Phase 2: Recon & Information Gathering
+### 🔍 Phase 3: Recon & Information Gathering
 - Subdomain enumeration  
 - Port scanning & service detection  
 - Directory brute-forcing  
 - JavaScript file analysis  
 - URL and parameter discovery  
 
-### 🐛 Phase 3: Vulnerability Discovery
+### 🐛 Phase 4: Vulnerability Discovery
 Learn and practice the most common bugs:
 - XSS (Cross-site Scripting)  
 - IDOR (Insecure Direct Object Reference)  
@@ -53,13 +53,13 @@ Use tools like:
 - ParamSpider  
 - HTTP request manipulation tools  
 
-### 📝 Phase 4: Reporting Bugs
+### 📝 Phase 5: Reporting Bugs
 - Write clear, professional reports  
 - Include PoC (Proof of Concept), steps to reproduce, and impact  
 - Avoid duplicates and invalid submissions  
 - Stay respectful and follow disclosure rules  
 
-### 💸 Phase 5: Bug Bounty Platforms
+### 💸 Phase 6: Bug Bounty Platforms
 Start submitting reports on:
 - [HackerOne](https://www.hackerone.com)  
 - [Bugcrowd](https://www.bugcrowd.com)  
